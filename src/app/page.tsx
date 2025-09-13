@@ -15,6 +15,9 @@ export default function Index() {
     <main>
       <Container>
         <Intro />
+        <h2>
+          Kalispera oli mera 
+        </h2>
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
